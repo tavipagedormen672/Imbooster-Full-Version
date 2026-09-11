@@ -236,3 +236,6 @@ This repository serves as the official landing page for IMBooster. The software 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of IMBooster today!**
+
+---
+**Last updated:** 2026-09-11 17:24:47 UTC
