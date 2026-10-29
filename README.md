@@ -238,4 +238,4 @@ This repository serves as the official landing page for IMBooster. The software 
 **Get the most recent version of IMBooster today!**
 
 ---
-**Last updated:** 2026-10-28 21:24:59 UTC
+**Last updated:** 2026-10-29 01:22:06 UTC
